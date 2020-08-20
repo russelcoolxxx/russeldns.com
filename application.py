@@ -9,7 +9,7 @@ header_text = '''
     <html>\n<head> <title>Russel's Site!</title> </head>\n<body>'''
 instructions = '''
     <p>
-    <h1 style="background-color: blue; color: white"> Hello People! </h1>
+    <h1 style="background-color: green; color: white"> Hello People! </h1>
     </br>
     <h1>Imagine something really fun here! XD </h1>
     <hr/>
