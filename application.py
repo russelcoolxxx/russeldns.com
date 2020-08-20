@@ -13,8 +13,8 @@ instructions = '''
     Hello I'm Russel and this is my first trial for using "eb deploy" command in my linux terminal! :)
     </h1>
     <br/>
-    <h1>
-    Another text with red background color in it
+    <h1 style="padding: 60px; background-color: red; color:white">
+    Another text with red background color in it :)
     </h1>
     <hr>
     <em>Hint</em>: This is a RESTful web service! Append a username
