@@ -2,8 +2,11 @@ branch-defaults:
   default:
     environment: rdns-env
     group_suffix: null
+  master:
+    environment: russeldns-env
+    group_suffix: null
 global:
-  application_name: russeldns
+  application_name: russeldns.com
   branch: null
   default_ec2_keyname: null
   default_platform: Python 3.6
@@ -14,5 +17,5 @@ global:
   platform_version: null
   profile: eb-cli
   repository: null
-  sc: null
+  sc: git
   workspace_type: Application
