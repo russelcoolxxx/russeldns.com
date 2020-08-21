@@ -1,0 +1,13 @@
+1. Create a pipeline connected to AWS Elastic beanstalk (Deployment)
+
+2. Install a plugin in Jenkins
+	- AWS Elastic Beanstalk Publisher
+
+3. Create a multibranch pipeline connected to github (Poll) using webhooks as build triggers
+	
+4. Connect the two pipelines
+	- Poll pipline will be the one that triggers the Deployment pipeline
+	
+Goal: Is to change russeldns.com on github and after merging deploy it automatically
+
+
