@@ -1,3 +1,5 @@
+from flask import flask
+
 <!DOCTYPE HTML>
 <!--
 	Ethereal by HTML5 UP
