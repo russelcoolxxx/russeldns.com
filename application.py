@@ -9,7 +9,7 @@ header_text = '''
     <html>\n<head> <title>Russel's EB Flask Test Site</title> </head>\n<body>'''
 instructions = '''
     <p>
-    <h1 style="padding: 60px; background-color: yellow; color: white">
+    <h1 style="padding: 60px; background-color: purple; color: white">
     Hello I'm Russel and this is my first trial for using "eb deploy" command in my linux terminal! :)
     </h1>
     <br/>
